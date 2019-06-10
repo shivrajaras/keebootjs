@@ -29,5 +29,8 @@
     "url": ""
   },
   "license": "UNLICENSED",
-  "description": "keebootjs"
+  "description": "keebootjs",
+  "publishConfig": {
+    "registry": "http://192.168.136.239:8081/repository/npm-private/"
+  }
 }
